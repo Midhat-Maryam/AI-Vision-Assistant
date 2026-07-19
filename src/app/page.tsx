@@ -215,7 +215,7 @@ export default function Home() {
         </button>
       </div>
       <p className="mb-3 text-center text-xs text-white/40">
-        Current mode: {captureMode} (say "check currency" or "read label" to switch by voice)
+        Current mode: {captureMode} (say &quot;check currency&quot; or &quot;read label&quot; to switch by voice)
       </p>
 
       <CameraCapture onCapture={handleCapture} />
@@ -233,7 +233,7 @@ export default function Home() {
 
       {voiceQuery && (
         <p className="mt-2 text-center text-xs text-white/40">
-          You asked: "{voiceQuery}"
+          You asked: &quot;{voiceQuery}&quot;
         </p>
       )}
 
