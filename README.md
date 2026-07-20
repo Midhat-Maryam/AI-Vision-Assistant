@@ -1,6 +1,6 @@
 # Nazar AI — Multimodal Vision Assistant for the Blind
 
-**Live Demo:** [ai-vision-assistant-xi.vercel.app](Ai-vision-assistant-git-main-midhat.vercel.app)
+**Live Demo:** [ai-vision-assistant-git-main-midhat.vercel.app](https://ai-vision-assistant-git-main-midhat.vercel.app/)
 
 A voice-first, multimodal AI assistant designed for blind and low-vision users. Point your phone's camera at anything, and Nazar AI describes the scene, reads text aloud, identifies currency, and reads product labels — all through natural speech, with no visual interface dependency.
 
